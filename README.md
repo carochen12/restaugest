@@ -124,6 +124,8 @@ Se ha definido la estructura modular, declarado las funciones exportadas y verif
 
 **Asignatura:** Programación Orientada a Objetos
 
+**Autor:** Carolina Lisha Chen Ou
+
 **Actividad:** Aprendizaje Autónomo 1
 
 **Proyecto:** RestauGest – Sistema de Gestión de Restaurantes
